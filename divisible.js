@@ -1,8 +1,8 @@
 /* 
-show the output from 1-50
-if the number is divisible by 3 instead of the number show foo
-if the number is divisible by 5 instead of the number show bar
-if the number is divisible by 3 & 5 instead of the number show foobar
+1. show the output from 1-50
+2. if the number is divisible by 3 instead of the number show foo
+3. if the number is divisible by 5 instead of the number show bar
+4. if the number is divisible by 3 & 5 instead of the number show foobar
 */
 
 for (let i = 0; i < 50; i++) {
